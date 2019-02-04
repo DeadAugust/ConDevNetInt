@@ -1,8 +1,9 @@
 /*
-  Four line static file server
-  This server script serves files from a subfolder called 'public'
+  August Luhrs
+  Connected Devices and Networked Interaction Spring 2019
+  Week 1 Assignment
 
-  adapted from expressjs.com examples, 2016
+  based on Four line static file server
   by Tom Igoe
 */
 var express = require('express');	        // include the express library
@@ -11,17 +12,15 @@ server.use('/',express.static('public')); // serve static files from /public
 
 server.get('/apathy', apathy);
 server.get('/mysterio', mysterio);
-server.get('divisive', divisive);
-server.get('honey', honey);
+server.get('/divisive', divisive);
+server.get('/honey', honey);
 
 function apathy(request, response){
-  response.send('You have reached the home page of Admiral Apathy, I guess.
-  There\'s nothing really worth doing here. Or anywhere.');
+  response.send('You have reached the home page of Admiral Apathy, I guess. There\'s nothing really worth doing here. Or anywhere.');
 }
 
 function mysterio(request, response){
-  response.send('Feast your eyes on the occult domain of the grand Dolph Mysterio!
-  Only the initiated can find the secret entrance to our ritual chamber website....');
+  response.send('Feast your eyes on the occult domain of the grand Dolph Mysterio! Only the initiated can find the secret entrance to our ritual chamber website....');
 }
 
 function divisive(request, response){
