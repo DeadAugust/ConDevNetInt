@@ -11,7 +11,7 @@
 // Connect to the local instance of fcserver
 
 var socket = io();
-var WebSocketAddress = "ws://198.162.1.4:7890"; //roompi's local IP
+var WebSocketAddress = "ws://192.168.1.4:7890"; //roompi's local IP
 
 //control buttons
 var redSlide, greenSlide, blueSlide, offOn;
