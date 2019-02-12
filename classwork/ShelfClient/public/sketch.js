@@ -12,10 +12,11 @@
 var WebSocketAddress = "ws://198.162.1.6:7890"; //roompi's local IP
 
 //control buttons
-var redSlide, greenSlide, blueSlide, sendButt;
+var redSlide, greenSlide, blueSlide, offOn;
 var redCol = 0;
 var greenCol = 0;
 var blueCol = 0;
+var light = true; //to toggle the off/on button
 
 function setup(){
 	var canvas = createCanvas(windowWidth, windowHeight);
@@ -33,11 +34,26 @@ function setup(){
 	greenSlide.position(width/2, 3 * height/7);
 	blueSlide = createSlider(0,255,188);
 	blueSlide.position(width/2, 3 * height/7 + height/10);
-
+	offOn = createButton('turn lights off/on');
+	offOn.position(width/2, 5 * height/7);
+	offOn.mousePressed(function(){
+		if(light){
+			redSlide.value(0);
+			greenSlide.value(0);
+			blueSlide.value(0);
+			light = !light;
+		}
+		else{
+			redSlide.value(255);
+			greenSlide.value(255);
+			blueSlide.value(255);
+			light = !light;
+		}
+	});
 }
 
 function draw(){
-	background(redSlide.value(), greenSlide.value(), blueSlide.value());
+	background(redSlide.value(), greenSlide.value(), blueSlide.value()); //color of page responds to user change
 	textSize(width/20);
 	fill(0);
 	text('Choose The Shelf Color', width/2, height/6);
