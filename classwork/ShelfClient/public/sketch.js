@@ -4,30 +4,29 @@
 	Tom Igoe -- Spring 2019
   Week 2 Assignment
 
-  based on p5 fadecandy examples from Scanlime's fadecandy github repo:
+  based on p5 fadecandy examples from Scanlime's amazing fadecandy github repo:
 	https://github.com/scanlime/fadecandy/tree/master/examples/p5js
 */
 
-// Connect to the local instance of fcserver
-
+//Establish socket to connect to roompi node server
 var socket = io();
+// Connect to roompi's instance of fcserver
 var WebSocketAddress = "ws://192.168.1.4:7890"; //roompi's local IP
 
 //Show LED pixel locations.
-var showPixelLocations = true;
+var showPixelLocations = true; //not really doing anything right now, but
+															// will be important for canvas implementation when LEDs show on the screen
 
-//control buttons
+// UI control sliders and button
 var redSlide, greenSlide, blueSlide, offOn;
-var redCol = 0;
-var greenCol = 0;
-var blueCol = 0;
 var light = true; //to toggle the off/on button
 
 function setup(){
 	var canvas = createCanvas(windowWidth, windowHeight);
-	// canvas.id(canvasId);
 	socketSetup(WebSocketAddress); // Connect to the local instance of fcserver via websocket.
 
+ //not all these strips are installed onto the wall yet, just future proofing the sketch as I have 8 total.
+ //ledStrip(index, count, x, y, something I don't need, something I don't need)
 	ledStrip(0, 64, width/2, height/2, width/70, 0, false);
 	ledStrip(64, 64, width/2, height/2, width/70, 0, false);
 	ledStrip(128, 64, width/2, height/2, width/70, 0, false);
@@ -36,9 +35,8 @@ function setup(){
 	ledStrip(320, 64, width/2, height/2, width/70, 0, false);
 	ledStrip(384, 64, width/2, height/2, width/70, 0, false);
 	ledStrip(448, 64, width/2, height/2, width/70, 0, false);
-	// frameRate(60);
 
-	//UI
+	//UI for colors
 	textAlign(CENTER);
 	redSlide = createSlider(0,255,40);
 	redSlide.position(width/2, 3 * height/7 - height/10);
@@ -48,7 +46,7 @@ function setup(){
 	blueSlide.position(width/2, 3 * height/7 + height/10);
 	offOn = createButton('turn lights off/on');
 	offOn.position(width/2, 5 * height/7);
-	offOn.mousePressed(function(){
+	offOn.mousePressed(function(){ //turns lights all on or all off
 		if(light){
 			redSlide.value(0);
 			greenSlide.value(0);
@@ -82,6 +80,8 @@ function draw(){
 	//Send to fcServer.
 	drawFrame();
 }
+
+//the following will be cool for later animation implementation, thanks Scanlime!
 
 /* from flames example
 //Show LED pixel locations.
