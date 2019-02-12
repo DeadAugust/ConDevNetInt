@@ -11,6 +11,51 @@
 // Connect to the local instance of fcserver
 var WebSocketAddress = "ws://198.162.1.6:7890"; //roompi's local IP
 
+//control buttons
+var redSlide, greenSlide, blueSlide, sendButt;
+var redCol = 0;
+var greenCol = 0;
+var blueCol = 0;
+
+function setup(){
+	var canvas = createCanvas(windowWidth, windowHeight);
+	// canvas.id(canvasId);
+	socketSetup(WebSocketAddress); // Connect to the local instance of fcserver via websocket.
+
+	ledStrip(0, 64, width/2, height/2, width/70, 0, false);
+	// frameRate(60);
+
+	//UI
+	textAlign(CENTER);
+	redSlide = createSlider(0,255,40);
+	redSlide.position(width/2, 3 * height/7 - height/10);
+	greenSlide = createSlider(0,255,255);
+	greenSlide.position(width/2, 3 * height/7);
+	blueSlide = createSlider(0,255,188);
+	blueSlide.position(width/2, 3 * height/7 + height/10);
+
+}
+
+function draw(){
+	background(redSlide.value(), greenSlide.value(), blueSlide.value());
+	textSize(width/20);
+	fill(0);
+	text('Choose The Shelf Color', width/2, height/6);
+
+	textSize(width/20);
+	fill(redSlide.value(), 0, 0);
+	text('red', width/4, 3 * height/7 - height/10);
+	fill(0, greenSlide.value(), 0);
+	text('green', width/4, 3 * height/7);
+	fill(0, 0, blueSlide.value());
+	text('blue', width/4, 3 * height/7 + height/10);
+
+
+	//Send to fcServer.
+	drawFrame();
+}
+
+/* from flames example
 //Show LED pixel locations.
 var showPixelLocations = true;
 //Change the HTML Id of the canvas.
@@ -45,3 +90,5 @@ function draw() {
 	//Send to fcServer.
 	drawFrame();
 }
+
+*/
