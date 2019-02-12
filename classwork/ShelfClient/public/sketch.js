@@ -13,6 +13,9 @@
 var socket = io();
 var WebSocketAddress = "ws://192.168.1.4:7890"; //roompi's local IP
 
+//Show LED pixel locations.
+var showPixelLocations = true;
+
 //control buttons
 var redSlide, greenSlide, blueSlide, offOn;
 var redCol = 0;
