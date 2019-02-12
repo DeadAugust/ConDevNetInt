@@ -9,7 +9,9 @@
 */
 
 // Connect to the local instance of fcserver
-var WebSocketAddress = "ws://198.162.1.6:7890"; //roompi's local IP
+
+var socket = io();
+var WebSocketAddress = "ws://198.162.1.4:7890"; //roompi's local IP
 
 //control buttons
 var redSlide, greenSlide, blueSlide, offOn;
@@ -24,6 +26,13 @@ function setup(){
 	socketSetup(WebSocketAddress); // Connect to the local instance of fcserver via websocket.
 
 	ledStrip(0, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(64, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(128, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(192, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(256, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(320, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(384, 64, width/2, height/2, width/70, 0, false);
+	ledStrip(448, 64, width/2, height/2, width/70, 0, false);
 	// frameRate(60);
 
 	//UI
