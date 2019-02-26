@@ -39,8 +39,9 @@ function readRotation(direction){
         if (yellowStates[i] == 1 && i != 0){
           yellowStates[i] = 0;
           yellowStates[i-1] = 1;
+        }
       }
-  }
+    }
   //led array cycle
   yellow1.writeSync(yellowStates[0]);
   yellow2.writeSync(yellowStates[1]);
