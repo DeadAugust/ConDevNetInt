@@ -94,8 +94,8 @@ function read () {
     humidity = readout.humidity.toFixed(2);
   // make the sensor data a JSON object:
     sensorData = JSON.stringify({
-        'temperature': temperature,
-        'humidity': humidity
+        'temperature': parseInt(temperature),
+        'humidity': parseInt(humidity)
     });
 
     // make the POST data a JSON object and stringify it:
