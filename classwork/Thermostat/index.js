@@ -85,6 +85,7 @@ var dht = new rpiDhtSensor.DHT11(2); // GPIO pin?
 var postData;
 var sensorData;
 var options;
+var request;
 function read () {
   var readout = dht.read();
     console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
@@ -116,7 +117,13 @@ function read () {
       }
     };
 
-    setTimeout(read, 5000);
+    request = https.request(options, callback);	// start it
+      //setTimeout?
+      request.write(postData);						// send the data
+      request.end();									    // end it
+      console.log('checking data\n' + postData); //just to check
+
+    setTimeout(read, 10000);
 }
 
 function callback(response) {
@@ -144,9 +151,3 @@ read();
 
 // make the actual request, but only after first read
 //if (temperature != 0){
-var request = https.request(options, callback);	// start it
-  //setTimeout?
-  request.write(postData);						// send the data
-  request.end();									    // end it
-  console.log('checking data\n' + postData); //just to check
-//}
