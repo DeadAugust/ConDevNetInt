@@ -123,7 +123,7 @@ function read () {
       request.end();									    // end it
       console.log('checking data\n' + postData); //just to check
 
-    setTimeout(read, 10000);
+    // setTimeout(read, 10000);
 }
 
 function callback(response) {
