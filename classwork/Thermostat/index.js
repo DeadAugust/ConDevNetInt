@@ -30,8 +30,10 @@ function readRotation(direction){
         if (yellowStates[i] == 1 && i != 2){
           yellowStates[i] = 0;
           yellowStates[i+1] = 1;
+        }
       }
-  } else {
+    }
+  else {
       console.log('Encoder rotated left');
       for (var i = 0; i < yellowStates.length; i++){
         if (yellowStates[i] == 1 && i != 0){
@@ -45,6 +47,7 @@ function readRotation(direction){
   yellow3.writeSync(yellowStates[2]);
   greenState = !greenState;
   green.writeSync(greenState);
+  console.log(yellowStates);
 }
 //start the encoder event listener
 myEncoder.on('rotation', readRotation);
