@@ -20,7 +20,7 @@ let greenState = 0;
 let yellowStates = [0, 0, 0]; //cycling through yellow LEDs
 //encoder set up
 const rotaryEncoder = require('onoff-rotary'); //encoder library
-const myEncoder = rotaryEncoder(20,21); //encoder input pins
+const myEncoder = rotaryEncoder(5, 6); //encoder input pins
 //encoder listener function
 function readRotation(direction){
   console.log(direction);
