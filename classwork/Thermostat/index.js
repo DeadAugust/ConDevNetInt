@@ -124,9 +124,11 @@ myEncoder.on('rotation', readRotation);
 read();
 
 // make the actual request, but only after first read
-if (temperature != 0){
-  var request = https.request(options, callback);	// start it
+//if (temperature != 0){
+var request = https.request(options, callback);	// start it
+setInterval(function(){  
   request.write(postData);						// send the data
   request.end();									    // end it
   console.log('checking data\n' + postData); //just to check
-}
+}, 30000);
+//}

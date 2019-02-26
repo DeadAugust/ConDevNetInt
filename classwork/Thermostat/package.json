@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "onoff": "^3.2.9",
-    "onoff-rotary": "^1.0.0"
+    "onoff-rotary": "^1.0.0",
+    "rpi-dht-sensor": "^0.1.1"
   }
 }
