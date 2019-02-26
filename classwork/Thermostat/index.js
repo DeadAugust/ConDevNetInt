@@ -32,32 +32,6 @@ var postData =JSON.stringify({
   'data': sensorData
 });
 */
-var options = {
-  host: hostName,
-  port: 443,
-  path: '/data',
-	method: 'POST',
-	headers: {
-    'User-Agent': 'nodejs',
-    'Content-Type': 'application/json',
-    'Content-Length': postData.length
-  }
-};
-
-function callback(response) {
-  var result = '';		// string to hold the response
-
-  // as each chunk comes in, add it to the result string:
-  response.on('data', function (data) {
-    result += data;
-  });
-
-  // when the final chunk comes in, print it out:
-  response.on('end', function () {
-    console.log(result);
-  });
-}
-
 
 //gpio set up
 let Gpio = require('onoff').Gpio; //onoff library
@@ -106,8 +80,11 @@ function readRotation(direction){
 //dht11 set up
 var rpiDhtSensor = require('rpi-dht-sensor');
 var dht = new rpiDhtSensor.DHT11(2); // GPIO pin?
+
+//callback updates
 var postData;
 var sensorData;
+var options;
 function read () {
   var readout = dht.read();
     console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
@@ -126,8 +103,36 @@ function read () {
       'sessionKey': '4e233ce4-946c-47a5-8102-dfb3c09bfe83',    // add your session key here
       'data': sensorData
     });
+
+    options = {
+      host: hostName,
+      port: 443,
+      path: '/data',
+    	method: 'POST',
+    	headers: {
+        'User-Agent': 'nodejs',
+        'Content-Type': 'application/json',
+        'Content-Length': postData.length
+      }
+    };
+
     setTimeout(read, 5000);
 }
+
+function callback(response) {
+  var result = '';		// string to hold the response
+
+  // as each chunk comes in, add it to the result string:
+  response.on('data', function (data) {
+    result += data;
+  });
+
+  // when the final chunk comes in, print it out:
+  response.on('end', function () {
+    console.log(result);
+  });
+}
+
 
 
 //terminal signals start
