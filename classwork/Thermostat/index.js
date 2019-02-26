@@ -106,6 +106,8 @@ function readRotation(direction){
 //dht11 set up
 var rpiDhtSensor = require('rpi-dht-sensor');
 var dht = new rpiDhtSensor.DHT11(2); // GPIO pin?
+var postData;
+var sensorData;
 function read () {
   var readout = dht.read();
     console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
@@ -113,13 +115,13 @@ function read () {
     temperature = readout.temperature.toFixed(2);
     humidity = readout.humidity.toFixed(2);
   // make the sensor data a JSON object:
-    var sensorData = JSON.stringify({
+    sensorData = JSON.stringify({
         'temperature': temperature,
         'humidity': humidity
     });
 
     // make the POST data a JSON object and stringify it:
-    var postData =JSON.stringify({
+     postData =JSON.stringify({
       'macAddress': 'b8:27:eb:dd:b8:d5',    // add your mac address here
       'sessionKey': '4e233ce4-946c-47a5-8102-dfb3c09bfe83',    // add your session key here
       'data': sensorData
@@ -138,9 +140,8 @@ read();
 // make the actual request, but only after first read
 //if (temperature != 0){
 var request = https.request(options, callback);	// start it
-// setInterval(function(){
+  //setTimeout?
   request.write(postData);						// send the data
   request.end();									    // end it
   console.log('checking data\n' + postData); //just to check
-// }, 30000);
 //}
