@@ -58,7 +58,7 @@ function readRotation(direction){
 
 //dht11 set up
 var rpiDhtSensor = require('rpi-dht-sensor');
-var dht = new rpiDhtSensor.DHT11(2);
+var dht = new rpiDhtSensor.DHT11(2); //actual pin not GPIO
 function read () {
   var readout = dht.read();
     console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
