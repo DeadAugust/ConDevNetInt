@@ -17,7 +17,7 @@ let yellow3 = new Gpio(7, 'out');
 let green = new Gpio(12, 'out');
 //led states
 let greenState = 0;
-let yellowStates = [0, 0, 0]; //cycling through yellow LEDs
+let yellowStates = [0, 1, 0]; //cycling through yellow LEDs, middle starts on
 //encoder set up
 const rotaryEncoder = require('onoff-rotary'); //encoder library
 const myEncoder = rotaryEncoder(5, 6); //encoder input pins
@@ -28,6 +28,7 @@ function readRotation(direction){
       console.log('Encoder rotated right');
       for (var i = yellowStates.length - 1; i >= 0; i--){
         if (yellowStates[i] == 1 && i != 2){
+	  console.log('lights right');
           yellowStates[i] = 0;
           yellowStates[i+1] = 1;
         }
@@ -37,6 +38,7 @@ function readRotation(direction){
       console.log('Encoder rotated left');
       for (var i = 0; i < yellowStates.length; i++){
         if (yellowStates[i] == 1 && i != 0){
+	  console.log('lights left');
           yellowStates[i] = 0;
           yellowStates[i-1] = 1;
         }
@@ -52,3 +54,4 @@ function readRotation(direction){
 }
 //start the encoder event listener
 myEncoder.on('rotation', readRotation);
+console.log('on');
