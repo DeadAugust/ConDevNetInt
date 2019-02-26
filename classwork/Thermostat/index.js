@@ -7,6 +7,9 @@
   based on tigoe/NodeServerExamples:
     rotary-encoder
     gpio-input
+
+  and momenso's rpi-dht-sensor
+  https://github.com/momenso/node-dht-sensor
 */
 
 //gpio set up
@@ -52,6 +55,20 @@ function readRotation(direction){
   green.writeSync(greenState);
   console.log(yellowStates);
 }
+
+//dht11 set up
+var rpiDhtSensor = require('rpi-dht-sensor');
+var dht = new rpiDhtSensor.DHT11(2);
+function read () {
+  var readout = dht.read();
+    console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
+        'humidity: ' + readout.humidity.toFixed(2) + '%');
+    setTimeout(read, 5000);
+}
+
+//terminal signals start
+console.log('on');
 //start the encoder event listener
 myEncoder.on('rotation', readRotation);
-console.log('on');
+//read the sensor
+read();
