@@ -18,7 +18,7 @@ const https = require('https');
 var hostName = 'tigoe.io'; // add the host name here
 var temperature = 0.0;
 var humidity = 0.0;
-
+/*
 // make the sensor data a JSON object:
 var sensorData = JSON.stringify({
     'temperature': temperature,
@@ -31,7 +31,7 @@ var postData =JSON.stringify({
   'sessionKey': '4e233ce4-946c-47a5-8102-dfb3c09bfe83',    // add your session key here
   'data': sensorData
 });
-
+*/
 var options = {
   host: hostName,
   port: 443,
@@ -112,6 +112,18 @@ function read () {
         'humidity: ' + readout.humidity.toFixed(2) + '%');
     temperature = readout.temperature.toFixed(2);
     humidity = readout.humidity.toFixed(2);
+  // make the sensor data a JSON object:
+    var sensorData = JSON.stringify({
+        'temperature': temperature,
+        'humidity': humidity
+    });
+
+    // make the POST data a JSON object and stringify it:
+    var postData =JSON.stringify({
+      'macAddress': 'b8:27:eb:dd:b8:d5',    // add your mac address here
+      'sessionKey': '4e233ce4-946c-47a5-8102-dfb3c09bfe83',    // add your session key here
+      'data': sensorData
+    });
     setTimeout(read, 5000);
 }
 
@@ -126,9 +138,9 @@ read();
 // make the actual request, but only after first read
 //if (temperature != 0){
 var request = https.request(options, callback);	// start it
-setInterval(function(){  
+// setInterval(function(){
   request.write(postData);						// send the data
   request.end();									    // end it
   console.log('checking data\n' + postData); //just to check
-}, 30000);
+// }, 30000);
 //}
