@@ -117,13 +117,16 @@ function read () {
       }
     };
 
-    request = https.request(options, callback);	// start it
+    if (temperature != 0.0){
+      request = https.request(options, callback);	// start it
       //setTimeout?
       request.write(postData);						// send the data
       request.end();									    // end it
       console.log('checking data\n' + postData); //just to check
-
-    // setTimeout(read, 10000);
+    }
+    else{
+      setTimeout(read,10000);
+    }
 }
 
 function callback(response) {
