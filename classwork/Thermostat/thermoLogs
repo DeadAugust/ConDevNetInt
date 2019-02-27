@@ -1,0 +1,181 @@
+on
+Temperature: 30.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":\"30.00\",\"humidity\":\"28.00\"}"}
+Created 16116
+
+Temperature: 30.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":\"30.00\",\"humidity\":\"28.00\"}"}
+Created 16118
+
+Temperature: 30.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":\"30.00\",\"humidity\":\"28.00\"}"}
+Created 16119
+
+Temperature: 30.00C, humidity: 29.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":\"30.00\",\"humidity\":\"29.00\"}"}
+
+check time 15:11 2/25
+on
+Temperature: 30.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 16171
+
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+on
+Temperature: 25.00C, humidity: 31.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":25,\"humidity\":31}"}
+Created 16564
+
+on
+Temperature: 25.00C, humidity: 31.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":25,\"humidity\":31}"}
+Created 16944
+
+on
+Temperature: 24.00C, humidity: 33.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":24,\"humidity\":33}"}
+Created 17326
+
+on
+Temperature: 24.00C, humidity: 32.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":24,\"humidity\":32}"}
+Created 17726
+
+on
+Temperature: 31.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+Created 18164
+
+on
+Temperature: 32.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":32,\"humidity\":28}"}
+Created 18592
+
+on
+Temperature: 32.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":32,\"humidity\":28}"}
+Created 18997
+
+on
+Temperature: 32.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":32,\"humidity\":28}"}
+Created 19397
+
+on
+Temperature: 32.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":32,\"humidity\":28}"}
+Created 19798
+
+on
+Temperature: 31.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+Created 20199
+
+on
+Temperature: 31.00C, humidity: 29.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":29}"}
+Created 20600
+
+on
+Temperature: 31.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+Created 21000
+
+on
+Temperature: 32.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":32,\"humidity\":28}"}
+Created 21401
+
+on
+Temperature: 0.00C, humidity: 0.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":0,\"humidity\":0}"}
+Created 21802
+
+on
+Temperature: 31.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+Created 22202
+
+on
+Temperature: 31.00C, humidity: 27.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":27}"}
+Created 22603
+
+on
+Temperature: 32.00C, humidity: 29.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":32,\"humidity\":29}"}
+Created 23004
+
+on
+Temperature: 0.00C, humidity: 0.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":0,\"humidity\":0}"}
+Created 23407
+
+on
+Temperature: 0.00C, humidity: 0.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":0,\"humidity\":0}"}
+Created 23809
+
+on
+Temperature: 0.00C, humidity: 0.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":0,\"humidity\":0}"}
+Created 24197
+
+on
+Temperature: 31.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+Created 24256
+
+on
+Temperature: 31.00C, humidity: 27.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":27}"}
+Created 24303
+
+on
+Temperature: 0.00C, humidity: 0.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":0,\"humidity\":0}"}
+Created 24351
+
+on
+Temperature: 31.00C, humidity: 27.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":27}"}
+Created 24400
+
+on
+Temperature: 31.00C, humidity: 28.00%
+checking data
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+Created 24449
+
