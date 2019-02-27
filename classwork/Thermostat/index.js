@@ -88,7 +88,7 @@ var options;
 var request;
 function read () {
   var readout = dht.read();
-    console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
+//    console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
         'humidity: ' + readout.humidity.toFixed(2) + '%');
     temperature = readout.temperature.toFixed(2);
     humidity = readout.humidity.toFixed(2);
@@ -122,7 +122,7 @@ function read () {
       //setTimeout?
       request.write(postData);						// send the data
       request.end();									    // end it
-      console.log('checking data\n' + postData); //just to check
+      console.log('data sent:\n' + postData); //just to check
     }
     else{
       setTimeout(read,10000);
@@ -146,7 +146,7 @@ function callback(response) {
 
 
 //terminal signals start
-console.log('on');
+//console.log('on');
 //start the encoder event listener
 myEncoder.on('rotation', readRotation);
 //read the sensor
