@@ -89,7 +89,7 @@ var request;
 function read () {
   var readout = dht.read();
 //    console.log('Temperature: ' + readout.temperature.toFixed(2) + 'C, ' +
-        'humidity: ' + readout.humidity.toFixed(2) + '%');
+//        'humidity: ' + readout.humidity.toFixed(2) + '%');
     temperature = readout.temperature.toFixed(2);
     humidity = readout.humidity.toFixed(2);
   // make the sensor data a JSON object:
