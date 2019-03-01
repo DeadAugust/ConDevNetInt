@@ -181,3 +181,6795 @@ Created 24449
 
 test
 Wed Feb 27 16:53:01 EST 2019
+Wed Feb 27 17:11:02 EST 2019
+Wed Feb 27 18:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+server error
+
+Wed Feb 27 19:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 24554
+
+Wed Feb 27 20:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 24708
+
+Wed Feb 27 21:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 24743
+
+Wed Feb 27 22:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":29}"}
+Created 24778
+
+Wed Feb 27 23:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 24813
+
+Thu Feb 28 00:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 24848
+
+Thu Feb 28 01:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":29}"}
+Created 24883
+
+Thu Feb 28 02:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":27}"}
+Created 24918
+
+Thu Feb 28 03:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 24953
+
+Thu Feb 28 04:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":29}"}
+Created 24988
+
+Thu Feb 28 05:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 25023
+
+Thu Feb 28 06:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":27}"}
+Created 25058
+
+Thu Feb 28 07:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":29}"}
+Created 25094
+
+Thu Feb 28 08:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 25129
+
+Thu Feb 28 09:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 25164
+
+Thu Feb 28 10:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":29}"}
+server error
+
+Thu Feb 28 11:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+server error
+
+Thu Feb 28 12:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":28}"}
+server error
+
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+-1
+-1
+-1
+-1
+Encoder rotated left
+-1
+lights left
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+Encoder rotated left
+lights left
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+-1
+lights left
+-1
+[ 1, 0, 0 ]
+Encoder rotated left
+lights left
+Encoder rotated left
+Encoder rotated left
+lights left
+lights left
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+Thu Feb 28 13:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":31,\"humidity\":27}"}
+server error
+
+Thu Feb 28 14:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":26,\"humidity\":30}"}
+Created 25198
+
+Thu Feb 28 15:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":26,\"humidity\":30}"}
+Created 25220
+
+Thu Feb 28 16:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":24,\"humidity\":31}"}
+Created 25242
+
+Thu Feb 28 17:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":24,\"humidity\":31}"}
+Created 25264
+
+Thu Feb 28 18:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":28,\"humidity\":30}"}
+Created 25294
+
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+Thu Feb 28 19:11:01 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 25333
+
+Thu Feb 28 20:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 26150
+
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+[ 1, 0, 0 ]
+Thu Feb 28 21:11:08 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 26174
+
+Thu Feb 28 22:11:02 EST 2019
+data sent:
+{"macAddress":"b8:27:eb:dd:b8:d5","sessionKey":"4e233ce4-946c-47a5-8102-dfb3c09bfe83","data":"{\"temperature\":30,\"humidity\":28}"}
+Created 26199
+
+Thu Feb 28 23:11:12 EST 2019
+Fri Mar  1 00:11:10 EST 2019
+Fri Mar  1 01:11:10 EST 2019
+Fri Mar  1 02:11:07 EST 2019
+Fri Mar  1 03:11:06 EST 2019
+Fri Mar  1 04:11:05 EST 2019
+Fri Mar  1 05:13:59 EST 2019
+Fri Mar  1 06:11:08 EST 2019
+Fri Mar  1 07:11:09 EST 2019
+Fri Mar  1 08:11:06 EST 2019
+Fri Mar  1 09:11:06 EST 2019
+Fri Mar  1 10:11:07 EST 2019
+Fri Mar  1 11:11:06 EST 2019
+Fri Mar  1 12:11:07 EST 2019
+Fri Mar  1 13:11:09 EST 2019
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+lights right
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+1
+Encoder rotated right
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+lights left
+-1
+Encoder rotated left
+-1
+Encoder rotated left
+lights left
+lights left
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 0, 1 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+lights left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+-1
+Encoder rotated left
+[ 1, 0, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+-1
+Encoder rotated left
+lights left
+[ 0, 1, 0 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+lights right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]
+1
+Encoder rotated right
+[ 0, 0, 1 ]

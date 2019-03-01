@@ -148,7 +148,10 @@ function callback(response) {
 //terminal signals start
 //console.log('on');
 //start the encoder event listener
-myEncoder.on('rotation', readRotation);
+/*
+NOT RUNNING FOR SMOOTH TEMP SEND
+*/
+//myEncoder.on('rotation', readRotation);
 //read the sensor
 read();
 
